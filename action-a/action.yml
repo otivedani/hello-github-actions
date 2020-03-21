@@ -1,6 +1,6 @@
-name: "Hello Actions"
-description: "Greet someone"
-author: "octocat@github.com"
+name: "Sign PowerShellScript"
+description: "Self-sign powershell scripts"
+author: "otivedani@github.com"
 
 inputs:
   MY_NAME:
@@ -14,4 +14,4 @@ runs:
 
 branding:
   icon: "mic"
-  color: "purple"
+  color: "blue"
